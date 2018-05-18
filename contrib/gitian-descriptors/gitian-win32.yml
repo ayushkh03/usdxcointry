@@ -32,7 +32,15 @@ script: |
   #
   unzip usdxcoin.zip
   cp -r usdxcoin $OUTDIR/src
+<<<<<<< HEAD
+<<<<<<< HEAD
+  cp -r litecoin nsis
+=======
   cp -r litecoin nsis 
+>>>>>>> f07bff8e063a6638ed665ac22639bf84c7e6d64c
+=======
+  cp -r litecoin nsis 
+>>>>>>> f07bff8e063a6638ed665ac22639bf84c7e6d64c
   cd usdxcoin
   export PATH=$STAGING/host/bin:$PATH
   cp $OUTDIR/src/doc/README_windows.txt $OUTDIR/readme.txt

@@ -71,4 +71,11 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./usdxcoin-qt_test
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 # usdxcointry
+>>>>>>> f07bff8e063a6638ed665ac22639bf84c7e6d64c
+=======
+# usdxcointry
+>>>>>>> f07bff8e063a6638ed665ac22639bf84c7e6d64c
