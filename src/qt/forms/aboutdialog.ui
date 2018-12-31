@@ -92,16 +92,7 @@
        </property>
        <property name="text">
         <string notr="true">Copyright &amp;copy; 2009-YYYY The Bitcoin developers
-<<<<<<< HEAD
-<<<<<<< HEAD
-Copyright &amp;copy; 2011-YYYY The Litecoin developers
-Copyright &amp;copy; 2017 Usdxcoin Developer</string>
-=======
 Copyright &amp;copy; 2011-YYYY The Usdxcoin developers</string>
->>>>>>> f07bff8e063a6638ed665ac22639bf84c7e6d64c
-=======
-Copyright &amp;copy; 2011-YYYY The Usdxcoin developers</string>
->>>>>>> f07bff8e063a6638ed665ac22639bf84c7e6d64c
        </property>
        <property name="textFormat">
         <enum>Qt::RichText</enum>
